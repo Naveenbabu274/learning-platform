@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0px;
+}
+
+.top-con{
+    background-color:#4b3787;
+    color: white;
+    padding: 50px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    margin-right: 30px;
+}
+
+nav a:hover {
+    background-color: #575757;
+}
+
+.container1 {
+    padding: 10px;
+    width:100%;
+}
+
+.course-card {
+    border-radius: 8px;
+    background-color:white;
+    padding: 15px;
+    box-shadow: 2px 4px 8px 2px rgb(236, 235, 237), 2px 4px 8px 2px rgb(236, 235, 237);
+}
+
+
+.course-card h3 {
+    margin: 10px;
+}
+
+.course-card p {
+    margin: 10px;
+}
+
+.btn {
+    background-color: #6aad43;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: #d9c31a;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    margin-top: 10px;
+}
+.compiler{
+    width: 100%;
+    height: 100vh;
+}
+.each-comp{
+    color: rgb(15, 12, 24);
+    background-color: #7e7ed2;
+    border-radius: 15px;
+    text-align: center;
+    padding: 20px;
+    width: 250px;
+    
+}
+.link-deco{
+    text-decoration: none;
+}
+.img-rad{
+    border-radius: 15px;
+}
+.bg-d {
+    background-color: #0d2436;
+}
+.sh-con{
+  width: 250px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgb(193, 42, 223), 0 6px 20px 0 rgba(146, 32, 239, 0.948);
+  text-align: center;
+}
+.t-s{
+    text-shadow: 4px 4px 8px rgb(245, 40, 204);
+}
